@@ -1,0 +1,15 @@
+[map]null
+
+name null Map
+
+null
+
+[Continents]
+Berga=4
+Craterland=5
+
+[Territories]
+Barron,0,0,Berga,Banyan,Cyan,
+Banyan,0,0,Berga,Barron,
+Cyan,0,0,Craterland,Coron,Barron,
+Coron,0,0,Craterland,Cyan,

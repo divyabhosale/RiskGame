@@ -1,0 +1,17 @@
+dao
+game
+gameengine
+mapworks
+pattern.adapter
+pattern.builder
+pattern.observer
+pattern.strategy
+test
+test.daotest
+test.gameenginetest
+test.gametest
+test.mapworkstest
+test.pattern.adapter
+test.pattern.builder
+test.pattern.observer
+test.pattern.strategy

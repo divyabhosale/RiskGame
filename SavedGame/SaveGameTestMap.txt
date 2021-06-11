@@ -1,0 +1,20 @@
+**
+[Continents]
+asia 10 FREE CONTINENTS
+africa 14 FREE CONTINENTS
+
+[Territories]
+india asia 0 FREE COUNTRIES pakistan congo 
+pakistan asia 0 FREE COUNTRIES india china 
+china asia 0 FREE COUNTRIES pakistan 
+congo africa 0 FREE COUNTRIES india uganda 
+uganda africa 0 FREE COUNTRIES congo 
+
+[PlayerList]
+
+[CardDetails]
+siberia infantry,worrick infantry,afganistan cavalry,india infantry,japan artillery,new_guinia infantry,western_ulstrailia infantry,jacuncail cavalry,south_afrori artillery,north_afrori cavalry,maganar artillery,argentina infantry,ireland infantry,ihesia infantry,western_utropa infantry,souther_utropa artillery,western_united_states infantry,czeck infantry,central_ameroki artillery,duiestie cavalry,Quebeck infantry,0
+[CurrentPhase]
+Attack
+[CurrentPlayer]
+testPlayer
